@@ -29,7 +29,7 @@ export const Header = () => {
             : "header-title header-title_light"
         }
       >
-        StarDB
+        {languageData.header}
       </h1>
 
       <div className="header-btn_panel">

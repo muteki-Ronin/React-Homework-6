@@ -1,5 +1,6 @@
 export const engData = {
   type: "eng",
+  header: "StarDB",
   themeBtnDark: "Light theme",
   themeBtnLight: "Dark theme",
   languageBtn: "Eng",
@@ -10,6 +11,7 @@ export const engData = {
 
 export const ruData = {
   type: "ru",
+  header: "ЗвёзднаяБД",
   themeBtnDark: "Светлая тема",
   themeBtnLight: "Тёмная тема",
   languageBtn: "Ру",

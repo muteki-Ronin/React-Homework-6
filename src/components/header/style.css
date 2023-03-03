@@ -23,13 +23,14 @@
 .header-btn_panel {
   display: flex;
   flex-direction: row;
+  justify-content: center;
   gap: 5px;
   min-width: 100%;
 }
 
 .them-btn {
-  min-width: 50%;
-  min-height: 20px;
+  min-width: 100px;
+  min-height: 30px;
 }
 
 .them-btn_dark {
