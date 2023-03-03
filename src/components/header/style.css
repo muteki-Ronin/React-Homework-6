@@ -1,0 +1,45 @@
+.header-container {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header-title {
+  font-size: 4rem;
+  margin-bottom: 20px;
+}
+
+.header-title_dark {
+  color: rgba(244, 235, 169, 0.841);
+  text-shadow: rgb(224, 224, 224) 1px 0 10px;
+}
+
+.header-title_light {
+  color: rgba(33, 33, 22, 0.841);
+  text-shadow: rgb(28, 27, 27) 1px 0 10px;
+}
+
+.header-btn_panel {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  min-width: 100%;
+}
+
+.them-btn {
+  min-width: 50%;
+  min-height: 20px;
+}
+
+.them-btn_dark {
+  color: rgb(255, 255, 255);
+  text-shadow: rgb(224, 224, 224) 1px 0 10px;
+  background-color: rgb(41, 37, 37);;
+}
+
+.them-btn_light {
+  color: rgb(0, 0, 0);
+  text-shadow: rgb(26, 25, 25) 1px 0 10px;
+  background-color: rgb(227, 221, 221);;
+}
