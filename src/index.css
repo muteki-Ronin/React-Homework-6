@@ -4,9 +4,17 @@
   box-sizing: border-box;
 }
 
+html,
+body, 
+#react-root {
+  height: 100%;
+}
+
 li {
   list-style-type: none;
 }
+
+
 
 
 
